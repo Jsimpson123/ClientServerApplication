@@ -1,0 +1,1 @@
+A simple client-server app built in Java. The client sends student names to the server, which converts them to uppercase and adds a "HELLO" prefix. The modified names are then sent back and displayed on the client side.
